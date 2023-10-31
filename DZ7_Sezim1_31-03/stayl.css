@@ -1,0 +1,23 @@
+.riddle {
+    background-color: rgb(105, 175, 255);
+    border-radius: 10px;
+    border: none;
+    list-style: none;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 11px 20px;
+    }
+.toggle{
+    background-color: rgb(203, 18, 228);
+    display: flex;
+}
+.answer{
+    background-color: aliceblue;
+    
+    
+}
+    
+    
